@@ -1,6 +1,6 @@
-# Mobi2 - Android App
+# Saurabh Electronics - Android App
 
-Mobi2 ek **Android app development project** hai jisme **React Native** aur **Node.js** ki help se APK run karwaya ja raha hai.  
+ye ek **Android app development project** hai jisme **React Native** aur **Node.js** ki help se APK run karwaya ja raha hai.  
 
 ---
 
